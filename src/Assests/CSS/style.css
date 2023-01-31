@@ -1,0 +1,9 @@
+.edit{
+    color: black !important;
+    font-weight: 600;
+    padding: 2px 8px !important;
+}
+.edit:hover{
+    color: rgb(255, 255, 255) !important;
+    font-weight: 600;
+}
